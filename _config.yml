@@ -43,25 +43,7 @@ app:
 # Marketing
 #
 marketing_header: Ekşisözlük Okumanın En Keyifli Yolu # Optional
-marketing_desc: Ekşi Sözlük gayrıresmi iPhone ve iPad uygulaması. Ekşi sözlük deneyimini mobilde en iyi şekilde yaşamak ve yaşatmak için bir Ekşi Sözlük okuru tarafından geliştirilmiştir. Aşağıdaki özellikleri ve daha fazlasını içerir:
-
-- Yazar girişi
-- Entry girme, diğer yazarlara mesaj gönderme
-- 3 farklı tema
-- Mesajlar ve yeni mesaj bildirimleri
-- Videolar
-- Başlıkta arama
-- Arama, şükela modu, linkler, profil görüntüleme
-- Bugün, DEBE, Güncel, Kanallar, Çaylaklar
-- Badi entryleri/favladıkları
-- iPhone'u landscape moda getirirseniz sol frame ekranda görünür olur
-- Entryleri sağa-sola swipe ederek kapatıp açma
-- Ekranın en üste iki kere basarak rastgele entry getirme
-- Yazı boyutunu ayarlama
-- Sade kullanıcı arayüzü
-- Paylaş butonuyla entryleri paylaşma
-
-Her türlü görüş ve önerilerinizi sukelareaderapp@gmail.com adresine yazabilirsiniz.
+marketing_desc: Ekşi Sözlük gayrıresmi iPhone ve iPad uygulaması. Ekşi sözlük deneyimini mobilde en iyi şekilde yaşamak ve yaşatmak için bir Ekşi Sözlük okuru tarafından geliştirilmiştir.
 
 #
 # Social Links
